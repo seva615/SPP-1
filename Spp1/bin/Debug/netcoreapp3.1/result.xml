@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><TraceResult><thread name="1" time="00:00:00.3045434"><method class="Foo" name="M1" time="00:00:00.1028646" /><method class="Foo" name="M2" time="00:00:00.2016788" /></thread></TraceResult>
