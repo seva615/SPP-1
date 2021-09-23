@@ -1,0 +1,13 @@
+C:\Users\yug77_bd0zewu\source\repos\Spp1\Spp1\bin\Debug\netcoreapp3.1\Spp1.exe
+C:\Users\yug77_bd0zewu\source\repos\Spp1\Spp1\bin\Debug\netcoreapp3.1\Spp1.deps.json
+C:\Users\yug77_bd0zewu\source\repos\Spp1\Spp1\bin\Debug\netcoreapp3.1\Spp1.runtimeconfig.json
+C:\Users\yug77_bd0zewu\source\repos\Spp1\Spp1\bin\Debug\netcoreapp3.1\Spp1.runtimeconfig.dev.json
+C:\Users\yug77_bd0zewu\source\repos\Spp1\Spp1\bin\Debug\netcoreapp3.1\Spp1.dll
+C:\Users\yug77_bd0zewu\source\repos\Spp1\Spp1\bin\Debug\netcoreapp3.1\Spp1.pdb
+C:\Users\yug77_bd0zewu\source\repos\Spp1\Spp1\obj\Debug\netcoreapp3.1\Spp1.csprojAssemblyReference.cache
+C:\Users\yug77_bd0zewu\source\repos\Spp1\Spp1\obj\Debug\netcoreapp3.1\Spp1.AssemblyInfoInputs.cache
+C:\Users\yug77_bd0zewu\source\repos\Spp1\Spp1\obj\Debug\netcoreapp3.1\Spp1.AssemblyInfo.cs
+C:\Users\yug77_bd0zewu\source\repos\Spp1\Spp1\obj\Debug\netcoreapp3.1\Spp1.csproj.CoreCompileInputs.cache
+C:\Users\yug77_bd0zewu\source\repos\Spp1\Spp1\obj\Debug\netcoreapp3.1\Spp1.dll
+C:\Users\yug77_bd0zewu\source\repos\Spp1\Spp1\obj\Debug\netcoreapp3.1\Spp1.pdb
+C:\Users\yug77_bd0zewu\source\repos\Spp1\Spp1\obj\Debug\netcoreapp3.1\Spp1.genruntimeconfig.cache
